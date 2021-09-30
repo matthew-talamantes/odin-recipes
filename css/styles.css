@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: bisque;
+}
+
+h1 {
+    color: orange;
+}
+
+ul li a {
+    font-size: 18px;
+}
